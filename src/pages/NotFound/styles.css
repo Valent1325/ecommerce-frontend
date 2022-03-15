@@ -1,0 +1,7 @@
+.app-fullpage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: calc(100vh - 64px);
+  width: 100%;
+}
